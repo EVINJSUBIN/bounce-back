@@ -1,0 +1,12 @@
+# Godot
+.godot/
+*.translation
+
+# Export output
+export/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
