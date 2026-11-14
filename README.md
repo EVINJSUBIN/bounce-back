@@ -13,7 +13,7 @@ One repo. One branch: `main`. No feature branches today. Two people editing bran
 Both of you:
 
 ```bash
-git clone https://github.com/HCBgroup/bounce-back.git
+git clone https://github.com/EVINJSUBIN/bounce-back.git
 ```
 
 Before you edit, and again before you commit:
